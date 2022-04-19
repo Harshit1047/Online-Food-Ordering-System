@@ -32,5 +32,11 @@ place easy find out navigate graphical interface for efficient processing.
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/86252946/164081438-0dea5795-e6ab-428d-a560-83d5da710499.png">
 
 
+## Tech Stack Used
+
+- PHP
+- JavaScript
+- SQL
+
 
 
