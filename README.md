@@ -23,7 +23,7 @@ minimal errors.
 
 
 
-## Shopping cart
+## Shopping Cart
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/86252946/164081152-5626ccb4-0639-4239-a785-c1a31f1f512e.png">
 
